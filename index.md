@@ -15,7 +15,7 @@ I'm currently working on MCTS. <br>I am a Java / Spigot Developer. <br>I code mi
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=GameTronic&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-## 🟩 **TexturePack**
+## 🟩 TexturePack
 [![TXT](https://img.shields.io/badge/MC-Texturepack-brightgreen)](https://gametronic.github.io/TXT/)
 
 ---
