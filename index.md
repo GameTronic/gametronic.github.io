@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on MCTS. <br>I am a Java / Spigot Developer. <br>I code minecraft plugins. 
+I am a Java / Spigot Developer. <br>I code minecraft plugins. 
 
 
 # 🌐 Socials:
